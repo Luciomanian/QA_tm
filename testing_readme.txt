@@ -1,0 +1,1 @@
+Here will store files with code of automatic tests and other files like shapes to test documentation.
