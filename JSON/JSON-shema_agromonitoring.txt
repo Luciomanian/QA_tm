@@ -1,0 +1,52 @@
+[
+	"satallite": {
+		"dt": 'number',
+		"type": string,
+		"dc": number,
+		"cl": number,
+		"sun": {
+			"elevation": number,
+			"azimuth": number
+		},
+		"image": {
+			"truecolor": "URL",
+			"falsecolor": "URL",
+			"ndvi": "URL",
+			"evi": "URL",
+			"evi2": "URL",
+			"nri": "URL",
+			"dswi": "URL",
+			"ndwi": "URL"
+		},
+		"title": {
+			"truecolor": "URL",
+			"falsecolor": "URL",
+			"ndvi": "URL",
+			"evi": "URL",
+			"evi2": "URL",
+			"nri": "URL",
+			"dswi": "URL",
+			"ndwi": "URL"
+		},
+		"stats": {
+			"truecolor": "URL",
+			"falsecolor": "URL",
+			"ndvi": "URL",
+			"evi": "URL",
+			"evi2": "URL",
+			"nri": "URL",
+			"dswi": "URL",
+			"ndwi": "URL"
+		},
+		"data": {
+			"truecolor": "URL",
+			"falsecolor": "URL",
+			"ndvi": "URL",
+			"evi": "URL",
+			"evi2": "URL",
+			"nri": "URL",
+			"dswi": "URL",
+			"ndwi": "URL"
+		}
+	},
+]
